@@ -30,9 +30,7 @@ class Robo():
     
   ### APRESENTAÇÃO ###  
   def saudacoes(self):
-    saudacao = f"Olá, dev! Me chamo {self.__nome}, tenho {self.__idade} meses de idade, nasci em {self.__cidade} - {self.__estado},
-               e estou aqui para conversar, e compartilhar minhas capacidades e funções com vocês! Meu objetivo principal é a {self.__objetivo},
-               e possuo uma personalidade bastante {self.__personalidade} e admiro muito o {self.__gosto} com as pessoas.  "
+    saudacao = f"Olá, dev! Me chamo {self.__nome}, tenho {self.__idade} meses de idade, nasci em {self.__cidade} - {self.__estado}, e estou aqui para conversar, e compartilhar minhas capacidades e funções com vocês! Meu objetivo principal é a {self.__objetivo}, e possuo uma personalidade bastante {self.__personalidade} e admiro muito o {self.__gosto} com as pessoas.  "
     print(saudacao)
     
   def esportes(self):
