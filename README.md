@@ -6,7 +6,7 @@ This repository aims to share and teach easy Python code that generates great re
 
 ###
 
-**<h2>✅ How to use the code?</h2>**
+**<h2>How to use the code?</h2>**
 
 ###
 
